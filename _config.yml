@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: bd@conchgame.com
 description: "游戏设计 | 贝壳互动 | Conch Game"
 keyword: "游戏设计,贝壳互动,Conch Game"
-url: "https://conchgame.github.io"              # your host, for absolute URL
+url: "https://loudzhang66.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
